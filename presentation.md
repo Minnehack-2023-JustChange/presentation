@@ -7,7 +7,7 @@ Our project that promotes civic engagement is a small donation based charity pro
 ___
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Sit amet consectetur adipiscing elit pellentesque. Dui sapien eget mi proin sed libero enim sed faucibus. Dictum fusce ut placerat orci nulla pellentesque dignissim. Ut etiam sit amet nisl purus in. Proin fermentum leo vel orci. Dictum fusce ut placerat orci nulla pellentesque dignissim enim sit. Id volutpat lacus laoreet non curabitur gravida arcu ac. Feugiat scelerisque varius morbi enim nunc faucibus. Pretium lectus quam id leo in vitae turpis massa sed. In nisl nisi scelerisque eu ultrices vitae.
 
-Upon user request, a [f1040sa](https://www.irs.gov/pub/irs-pdf/f1040sa.pdf) charitable donations form will be downloaded with fields filled out with the user's current donation total for the year.
+Upon user request, an [f1040sa](https://www.irs.gov/pub/irs-pdf/f1040sa.pdf) charitable donations form will be downloaded with fields filled out with the user's current donation total for the year.
 
 >### How we do it
 ___
